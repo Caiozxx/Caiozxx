@@ -8,5 +8,5 @@
 I'm a {frontend and developer python } I'm now starting to walk in the schedule, and if you want to see my projects as they are, just access my portfolio [@myportifolio](https://curriculodocaio.netlify.app/).
 
 - [Courses] - technology in systems analysis and development
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+<!-- - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
+- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.-->
