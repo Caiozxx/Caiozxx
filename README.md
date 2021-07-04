@@ -1,1 +1,2 @@
-<h1 algin="center"> Ola eu me chamo Caio</h1>
+<h1 algin="center">Hi i'am Caio! :D</h1>
+[![Github badge](https://github.com/Caiozxx)]
