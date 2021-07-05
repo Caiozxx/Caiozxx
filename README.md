@@ -9,4 +9,7 @@ I'm a {frontend and developer python } I'm now starting to walk in the schedule,
 
 - [Courses] - technology in systems analysis and development, transversal competence, information technology.
 - [Blog]hey, access my portfolio, don't forget to [@myportifolio](https://curriculodocaio.netlify.app/) ✍🏼 - thanks.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.-->
+
+### Contents that interest me!
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]
