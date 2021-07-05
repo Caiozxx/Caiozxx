@@ -7,6 +7,6 @@
 ### About me
 I'm a {frontend and developer python } I'm now starting to walk in the schedule, and if you want to see my projects as they are, just access my portfolio [@myportifolio](https://curriculodocaio.netlify.app/).
 
-- [Courses] - technology in systems analysis and development
+- [Courses] - technology in systems analysis and development, transversal competence, information technology.
 - [Blog]hey, access my portfolio, don't forget to [@myportifolio](https://curriculodocaio.netlify.app/) ✍🏼 - thanks.
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.-->
