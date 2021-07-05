@@ -12,4 +12,4 @@ I'm a {frontend and developer python } I'm now starting to walk in the schedule,
 
 ### Contents that interest me!
 
-[!Python (https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]
+[!Python] (https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]
