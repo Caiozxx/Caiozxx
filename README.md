@@ -34,6 +34,7 @@ I'm a {frontend and developer python } I'm now starting to walk in the schedule,
 
 ### Statistics
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Caiozxx&theme=blue-green)](https://github.com/Caiozxx)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Caiozxx&theme=blue-green)](https://github.com/Caiozxx) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Welcome to me!
