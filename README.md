@@ -32,4 +32,8 @@ I'm a {frontend and developer python } I'm now starting to walk in the schedule,
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)]()
 [![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)]()
 
+### Statistics
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Caiozxx&theme=blue-green)](https://github.com/Caiozxx)
+
 ### Welcome to me!
